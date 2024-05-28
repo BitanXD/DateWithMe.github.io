@@ -1,0 +1,9 @@
+.gradient-background{
+    background-image: linear-gradient(to bottom right, rgb(183, 81, 81), rgb(255, 255, 255));
+}
+
+body{
+    background-image: url('Snapchat-219477078.jpg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
